@@ -1,8 +1,8 @@
 # Jewellery Portfolio
 Wellcome to Jewellery Shop- a modern and elegant online jewellery store where costomer can explore and shop beautiful jewellery product.
 # Screenshots
-![Jewelry Shop Preview](image/bridle set.jpeg)
-![Jewelry Shop Preview](image/party set.jpeg)
+![Jewelry Shop Preview](image/bridle_set.jpeg)
+![Jewelry Shop Preview](image/party_set.jpeg)
 1. Clone this repository
 2. git clone https://github.com/your-username/jewelry-shop.git
 open "index.html" in any web browser.
