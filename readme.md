@@ -6,7 +6,7 @@ Wellcome to Jewellery Shop- a modern and elegant online jewellery store where co
 1. Clone this repository
 2. git clone https://github.com/your-username/jewelry-shop.git
 open "index.html" in any web browser.
-No installation required. This is a static website.
+No Installation required. This is a static website.
 ## Technologies Used
 HTML5
 
@@ -17,8 +17,8 @@ JavaScript
 ## How to contribute
 1. For this resporitery
 2. Creat a new branch: "git checkout -b feature/your feature"
-3. make your changes and commit: git commit -m "Add your feature"
-4. push to the branch: "git push origin freture/yur feature"
-5. Open a Pull request
+3. Make your changes and commit: git commit -m "Add your feature"
+4. Push to the branch: "git push origin freture/yur feature"
+5. Open a Pull Request
 ## License
-This project is license under the MIT Licence.
+This project is License under the MIT Licence.
